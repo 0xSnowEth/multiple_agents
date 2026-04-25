@@ -1,5 +1,5 @@
 profiles:
   dev:
-    hub: openrouter/mistralai/mistral-7b-instruct:free
-    spoke_smart: openrouter/deepseek/deepseek-v3:free
-    spoke_fast: openrouter/google/gemma-2-9b-it:free
+    hub:         openai/gpt-oss-120b            # 120B, fastest, production
+    spoke_smart: openai/zai-glm-4.7             # #1 tool calling, preview only
+    spoke_fast:  openai/llama3.1-8b             # 8B, ultra-fast, production
