@@ -1,0 +1,5 @@
+profiles:
+  dev:
+    hub: openrouter/mistralai/mistral-7b-instruct:free
+    spoke_smart: openrouter/deepseek/deepseek-v3:free
+    spoke_fast: openrouter/google/gemma-2-9b-it:free
