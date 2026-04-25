@@ -1,5 +1,5 @@
 profiles:
   dev:
-    hub:         openai/gpt-oss-120b            # 120B, fastest, production
-    spoke_smart: openai/zai-glm-4.7             # #1 tool calling, preview only
-    spoke_fast:  openai/llama3.1-8b             # 8B, ultra-fast, production
+    hub:         cerebras/qwen-3-235b-a22b-instruct-2507
+    spoke_smart: cerebras/qwen-3-235b-a22b-instruct-2507
+    spoke_fast:  cerebras/llama3.1-8b
