@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.136.1",
+    "groq>=1.2.0",
     "httpx>=0.28.1",
     "langfuse>=2.0.0,<3.0.0",
     "litellm>=1.83.13",

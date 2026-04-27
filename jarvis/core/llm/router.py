@@ -6,7 +6,9 @@ from dotenv import load_dotenv
 
 load_dotenv(override=True)
 
-litellm.suppress_debug_info = True
+litellm.suppress_debug_info = False
+litellm.set_verbose = True
+os.environ["LITELLM_LOG"] = "DEBUG"
 
 # Langfuse tracing — every LLM call is now tracked automatically
 litellm.success_callback = ["langfuse"]
@@ -23,8 +25,6 @@ async def chat(*, role: str, messages: list, tools: list | None = None) -> dict:
     kwargs = dict(
         model=model_for(role),
         messages=messages,
-        api_base="https://api.cerebras.ai/v1",
-        api_key=os.getenv("CEREBRAS_API_KEY"),
     )
     if tools:
         kwargs["tools"] = tools

@@ -1,0 +1,65 @@
+{
+  "session_id": "1160706b-4318-4028-af27-fdadbe5f6f06",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "هل تبحث عن طريقة فعّالة لنمو مشروعك؟ 🚀 من إستراتيجية العلامة التجارية إلى التسويق الرقمي، نساعد رواد الأعمال والشركات الناشئة في الكويت على بناء حضور رقمي قوي ومحترف. 💼🔥 شغّل潜力 مشروعك مع نوفا إيدج ماركيتينج اليوم! 💡\n\nLooking for a proven way to grow your business? 🚀 From brand strategy to digital marketing, we help Kuwaiti entrepreneurs and SMEs build a strong, professional online presence. 💼🔥 Unlock your business potential with NovaEdge Marketing today! 💡\n\n#EntrepreneursKuwait #SMEgrowth #DigitalMarketingKuwait #BrandStrategy #ContentCreation #KuwaitBusiness #NovaEdgeMarketing #GrowYourBrand #رواد_الأعمال #شركات_ناشئة #تسويق_رقمي #استراتيجية_العلامة #تطوير_الأعمال #نوفا_إيدج #تسويق_في_الكويت #صناعة_محتوى",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/1160706b-4318-4028-af27-fdadbe5f6f06/1473657424300579.mp4"
+  },
+  "media_batch": [
+    {
+      "type": "video",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/1160706b-4318-4028-af27-fdadbe5f6f06/1473657424300579.mp4"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "هل تبحث عن طريقة فعّالة لنمو مشروعك؟ 🚀 من إستراتيجية العلامة التجارية إلى التسويق الرقمي، نساعد رواد الأعمال والشركات الناشئة في الكويت على بناء حضور رقمي قوي ومحترف. 💼🔥 شغّل潜力 مشروعك مع نوفا إيدج ماركيتينج اليوم! 💡",
+    "english_caption": "Looking for a proven way to grow your business? 🚀 From brand strategy to digital marketing, we help Kuwaiti entrepreneurs and SMEs build a strong, professional online presence. 💼🔥 Unlock your business potential with NovaEdge Marketing today! 💡",
+    "arabic_hashtags": [
+      "رواد_الأعمال",
+      "شركات_ناشئة",
+      "تسويق_رقمي",
+      "استراتيجية_العلامة",
+      "تطوير_الأعمال",
+      "نوفا_إيدج",
+      "تسويق_في_الكويت",
+      "صناعة_محتوى"
+    ],
+    "english_hashtags": [
+      "EntrepreneursKuwait",
+      "SMEgrowth",
+      "DigitalMarketingKuwait",
+      "BrandStrategy",
+      "ContentCreation",
+      "KuwaitBusiness",
+      "NovaEdgeMarketing",
+      "GrowYourBrand"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption combines a direct, benefit-driven question with a clear value proposition, tailored to Kuwaiti entrepreneurs and SMEs. It highlights key services (brand strategy, digital marketing) in a professional yet aspirational tone. The use of action verbs like 'Unlock' and 'Grow' increases engagement potential. The Arabic version uses culturally relevant phrasing while maintaining professionalism. Strong hook due to relevance, clarity, and emotional appeal to ambition and growth.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "\tClient: NovaEdge Marketing  \n\tType: Instagram Reel  \n\nArabic Caption:  \nهل تبحث عن طريقة فعّالة لنمو مشروعك؟ 🚀 من إستراتيجية العلامة التجارية إلى التسويق الرقمي، نساعد رواد الأعمال والشركات الناشئة في الكويت على بناء حضور رقمي قوي ومحترف. 💼🔥 شغّل potential مشروعك مع نوفا إيدج ماركيتينج اليوم! 💡  \n\n#رواد_الأعمال #شركات_ناشئة #تسويق_رقمي #استراتيجية_العلامة #تطوير_الأعمال #نوفا_إيدج #تسويق_في_الكويت #صناعة_محتوى  \n\nEnglish Caption:  \nLooking for a proven way to grow your business? 🚀 From brand strategy to digital marketing, we help Kuwaiti entrepreneurs and SMEs build a strong, professional online presence. 💼🔥 Unlock your business potential with NovaEdge Marketing today! 💡  \n\n#EntrepreneursKuwait #SMEgrowth #DigitalMarketingKuwait #BrandStrategy #ContentCreation #KuwaitBusiness #NovaEdgeMarketing #GrowYourBrand  \n\nReady to send for approval? (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T19:09:40.696730",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 1 media files for my client 'novaedge-marketing'. This is a Reel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "\tClient: NovaEdge Marketing  \n\tType: Instagram Reel  \n\nArabic Caption:  \nهل تبحث عن طريقة فعّالة لنمو مشروعك؟ 🚀 من إستراتيجية العلامة التجارية إلى التسويق الرقمي، نساعد رواد الأعمال والشركات الناشئة في الكويت على بناء حضور رقمي قوي ومحترف. 💼🔥 شغّل potential مشروعك مع نوفا إيدج ماركيتينج اليوم! 💡  \n\n#رواد_الأعمال #شركات_ناشئة #تسويق_رقمي #استراتيجية_العلامة #تطوير_الأعمال #نوفا_إيدج #تسويق_في_الكويت #صناعة_محتوى  \n\nEnglish Caption:  \nLooking for a proven way to grow your business? 🚀 From brand strategy to digital marketing, we help Kuwaiti entrepreneurs and SMEs build a strong, professional online presence. 💼🔥 Unlock your business potential with NovaEdge Marketing today! 💡  \n\n#EntrepreneursKuwait #SMEgrowth #DigitalMarketingKuwait #BrandStrategy #ContentCreation #KuwaitBusiness #NovaEdgeMarketing #GrowYourBrand  \n\nReady to send for approval? (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T19:10:43.864836"
+}

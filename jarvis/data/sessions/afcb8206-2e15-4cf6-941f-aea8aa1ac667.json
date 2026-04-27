@@ -1,0 +1,56 @@
+{
+  "session_id": "afcb8206-2e15-4cf6-941f-aea8aa1ac667",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "is_complete": false,
+    "missing_fields": [],
+    "next_question_for_operator": "Error processing onboarding: litellm.RateLimitError: RateLimitError: CerebrasException - We're experiencing high traffic right now! Please try again soon.",
+    "formatted_profile": null
+  },
+  "status": "active",
+  "pending_reply": "Server’s throttling — Cerebras is swamped. Retry onboarding in 2 mins. (Patience, human. Even AI gods get busy.)",
+  "error_message": null,
+  "created_at": "2026-04-26T18:05:58.707349",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "Yoohoo! Jarvis is live and crackin’ — ready to crush captions, chase payments, or prep your client game plan. What’s it gonna be? (hit me with the mission)"
+    },
+    {
+      "role": "user",
+      "content": "tell me how many clients we have saved"
+    },
+    {
+      "role": "assistant",
+      "content": "We got zero clients in the system right now — fresh battlefield. Want me to prep onboarding for a new one? (yes / no)"
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "_firestore activation engaged_ — drop the client’s name and every detail you’ve got. I’ll build their profile from scratch. (name + intel = let’s move)"
+    },
+    {
+      "role": "user",
+      "content": "name of the client: Tesla\n+1 800-555-1234. Target audience is luxury car buyers. Brand voice is futuristic and premium. Platforms are Twitter and Instagram. Language is English"
+    },
+    {
+      "role": "assistant",
+      "content": "Server’s throttling — Cerebras is swamped. Retry onboarding in 2 mins. (Patience, human. Even AI gods get busy.)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T18:08:20.287101"
+}

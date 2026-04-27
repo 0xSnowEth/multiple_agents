@@ -1,0 +1,27 @@
+{
+  "session_id": "75fab891-1d8b-4f7d-8d23-e009d88ff0f7",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": null,
+  "status": "active",
+  "pending_reply": "Hey there!! Jarvis is live and sassy — what’s on your mind?  \nNeed captions? Campaigns? Client nudges? Let’s go. (yes / no)",
+  "error_message": null,
+  "created_at": "2026-04-26T16:44:58.235544",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey there!! Jarvis is live and sassy — what’s on your mind?  \nNeed captions? Campaigns? Client nudges? Let’s go. (yes / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T16:45:01.699847"
+}

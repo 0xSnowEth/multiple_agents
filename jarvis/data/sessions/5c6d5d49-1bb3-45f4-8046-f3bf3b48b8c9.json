@@ -1,0 +1,71 @@
+{
+  "session_id": "5c6d5d49-1bb3-45f4-8046-f3bf3b48b8c9",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "نُرسم مستقبل التسويق بثقة ورؤية واضحة 🚀 في نوڤا إيدج، نحن لا نواكب المستقبل — نحن من نصنعه. انضم إلينا في هذه الرحلة الاستثنائية حيث تلتقي الابتكارات بالتكنولوجيا الذكية والطاقة العالية لخلق نتائج غير عادية.\n\nWe’re shaping the future of marketing with bold confidence 🚀 At NovaEdge, we don’t just chase the future — we define it. Join us on this high-energy journey where innovation meets smart technology to deliver extraordinary results.\n\n##ProfessionalMarketing ##Innovation ##FutureVision ##NovaEdge ##BusinessLeadership ##MarketingTech ##DigitalTransformation ##تسويق_محترف ##ابتكار ##رؤية_المستقبل ##نوڤا_إيدج ##ريادة_الأعمال ##تكنولوجيا_التسويق ##شركة_تسويق",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/5c6d5d49-1bb3-45f4-8046-f3bf3b48b8c9/828719173628895.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/5c6d5d49-1bb3-45f4-8046-f3bf3b48b8c9/828719173628895.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/5c6d5d49-1bb3-45f4-8046-f3bf3b48b8c9/1332287955428392.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/5c6d5d49-1bb3-45f4-8046-f3bf3b48b8c9/967074222354042.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "نُرسم مستقبل التسويق بثقة ورؤية واضحة 🚀 في نوڤا إيدج، نحن لا نواكب المستقبل — نحن من نصنعه. انضم إلينا في هذه الرحلة الاستثنائية حيث تلتقي الابتكارات بالتكنولوجيا الذكية والطاقة العالية لخلق نتائج غير عادية.",
+    "english_caption": "We’re shaping the future of marketing with bold confidence 🚀 At NovaEdge, we don’t just chase the future — we define it. Join us on this high-energy journey where innovation meets smart technology to deliver extraordinary results.",
+    "arabic_hashtags": [
+      "#تسويق_محترف",
+      "#ابتكار",
+      "#رؤية_المستقبل",
+      "#نوڤا_إيدج",
+      "#ريادة_الأعمال",
+      "#تكنولوجيا_التسويق",
+      "#شركة_تسويق"
+    ],
+    "english_hashtags": [
+      "#ProfessionalMarketing",
+      "#Innovation",
+      "#FutureVision",
+      "#NovaEdge",
+      "#BusinessLeadership",
+      "#MarketingTech",
+      "#DigitalTransformation"
+    ],
+    "hook_strength": "strong",
+    "notes": "تم اختيار النبرة لتوازن بين الاحترافية والجرأة، مع إبراز الهوية المستقبلية للعلامة. يحفز المحتوى التفاعل من خلال دعوة المتابعين للانضمام إلى 'رحلة استثنائية'، وهو عنصر مقنع يلامس الطموح المهني. تم تضمين هاشتاقات استهداف ثنائية اللغة تعكس المفاهيم الأساسية مثل الابتكار، المستقبل، والتكنولوجيا مع الحفاظ على اتساق العلامة التجارية. تم التفكير في خيار بديل أكثر تركيزًا على النتائج (مثل 'نتائج مذهلة تمثل المستقبل')، لكن الصيغة الحالية أعمق من ناحية السرد.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "NovaEdge Marketing  \nMedia: Instagram Carousel  \n\nالعربية:  \nنُرسم مستقبل التسويق بثقة ورؤية واضحة 🚀 في نوڤا إيدج، نحن لا نواكب المستقبل — نحن من نصنعه. انضم إلينا في هذه الرحلة الاستثنائية حيث تلتقي الابتكارات بالتكنولوجيا الذكية والطاقة العالية لخلق نتائج غير عادية.  \n#تسويق_محترف #ابتكار #رؤية_المستقبل #نوڤا_إيدج #ريادة_الأعمال #تكنولوجيا_التسويق #شركة_تسويق  \n\nEnglish:  \nWe’re shaping the future of marketing with bold confidence 🚀 At NovaEdge, we don’t just chase the future — we define it. Join us on this high-energy journey where innovation meets smart technology to deliver extraordinary results.  \n#ProfessionalMarketing #Innovation #FutureVision #NovaEdge #BusinessLeadership #MarketingTech #DigitalTransformation  \n\nReady when you are. (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T01:05:38.582244",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "NovaEdge Marketing  \nMedia: Instagram Carousel  \n\nالعربية:  \nنُرسم مستقبل التسويق بثقة ورؤية واضحة 🚀 في نوڤا إيدج، نحن لا نواكب المستقبل — نحن من نصنعه. انضم إلينا في هذه الرحلة الاستثنائية حيث تلتقي الابتكارات بالتكنولوجيا الذكية والطاقة العالية لخلق نتائج غير عادية.  \n#تسويق_محترف #ابتكار #رؤية_المستقبل #نوڤا_إيدج #ريادة_الأعمال #تكنولوجيا_التسويق #شركة_تسويق  \n\nEnglish:  \nWe’re shaping the future of marketing with bold confidence 🚀 At NovaEdge, we don’t just chase the future — we define it. Join us on this high-energy journey where innovation meets smart technology to deliver extraordinary results.  \n#ProfessionalMarketing #Innovation #FutureVision #NovaEdge #BusinessLeadership #MarketingTech #DigitalTransformation  \n\nReady when you are. (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T01:06:24.479744"
+}

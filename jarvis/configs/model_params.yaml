@@ -1,0 +1,45 @@
+# configs/model_params.yaml
+# All model parameters in one place.
+# Code reads from here — never hardcode these values inline.
+
+hub:
+  max_turns: 25
+  max_tokens: 2048
+  temperature: 0          # deterministic routing
+  alert_threshold_usd: 0.50  # log warning if single session exceeds this
+
+spokes:
+  default_max_turns: 10
+  default_max_tokens: 1024
+  temperature: 0
+
+  # Per-spoke overrides
+  caption-spoke:
+    max_turns: 10
+    max_tokens: 1024
+    temperature: 0.4      # some creativity for caption generation
+
+  approval-spoke:
+    max_turns: 5
+    max_tokens: 512
+    temperature: 0
+
+  payment-nudge-spoke:
+    max_turns: 5
+    max_tokens: 512
+    temperature: 0
+
+  lead-qualification-spoke:
+    max_turns: 10
+    max_tokens: 1024
+    temperature: 0
+
+  strategy-spoke:
+    max_turns: 10
+    max_tokens: 2048
+    temperature: 0
+
+  posting-spoke:
+    max_turns: 5
+    max_tokens: 512
+    temperature: 0

@@ -1,0 +1,27 @@
+{
+  "session_id": "96010005-7fe9-498c-bab0-3c7d5024225a",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": null,
+  "status": "active",
+  "pending_reply": "Ayye! Jarvis is live and ready to crush it—what’s the move? Need captions, campaigns, approvals, or chasing a client? Let’s go. 🚀",
+  "error_message": null,
+  "created_at": "2026-04-26T18:04:50.415264",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "Ayye! Jarvis is live and ready to crush it—what’s the move? Need captions, campaigns, approvals, or chasing a client? Let’s go. 🚀"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T18:04:53.022341"
+}

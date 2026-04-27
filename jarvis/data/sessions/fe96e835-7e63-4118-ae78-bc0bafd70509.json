@@ -1,0 +1,67 @@
+{
+  "session_id": "fe96e835-7e63-4118-ae78-bc0bafd70509",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "نقدم لكم رؤى تسويقية مبتكرة تُحدث فرقًا حقيقيًا في أداء علامتكم التجارية 🌟 من الاستراتيجيات المدروسة إلى التنفيذ الدقيق، نحن نعمل معكم خطوة بخطوة لتحقيق النجاح المستدام. اكتشفوا كيف يمكن لفريق نوف إيدج أن يُعزز من تواجدكم الرقمي ويدفع بكم إلى الصدارة. 🔍🚀 #استراتيجية #تسويق_رقمي #ريادة_أعمال\n\nDiscover innovative marketing insights that make a real impact on your brand’s performance 🌟 From strategic planning to precise execution, we partner with you every step of the way toward sustainable success. See how NovaEdge can elevate your digital presence and position you at the forefront of your industry. 🔍🚀 #MarketingStrategy #DigitalMarketing #BusinessGrowth\n\n##MarketingStrategy ##DigitalMarketing ##BusinessGrowth ##NovaEdge ##ProfessionalMarketing ##استراتيجية ##تسويق_رقمي ##ريادة_أعمال ##نوڤ_إيدج ##تسويق_محترف",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe96e835-7e63-4118-ae78-bc0bafd70509/827341740416032.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe96e835-7e63-4118-ae78-bc0bafd70509/827341740416032.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe96e835-7e63-4118-ae78-bc0bafd70509/2028500017745495.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe96e835-7e63-4118-ae78-bc0bafd70509/2056111484941150.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "نقدم لكم رؤى تسويقية مبتكرة تُحدث فرقًا حقيقيًا في أداء علامتكم التجارية 🌟 من الاستراتيجيات المدروسة إلى التنفيذ الدقيق، نحن نعمل معكم خطوة بخطوة لتحقيق النجاح المستدام. اكتشفوا كيف يمكن لفريق نوف إيدج أن يُعزز من تواجدكم الرقمي ويدفع بكم إلى الصدارة. 🔍🚀 #استراتيجية #تسويق_رقمي #ريادة_أعمال",
+    "english_caption": "Discover innovative marketing insights that make a real impact on your brand’s performance 🌟 From strategic planning to precise execution, we partner with you every step of the way toward sustainable success. See how NovaEdge can elevate your digital presence and position you at the forefront of your industry. 🔍🚀 #MarketingStrategy #DigitalMarketing #BusinessGrowth",
+    "arabic_hashtags": [
+      "#استراتيجية",
+      "#تسويق_رقمي",
+      "#ريادة_أعمال",
+      "#نوڤ_إيدج",
+      "#تسويق_محترف"
+    ],
+    "english_hashtags": [
+      "#MarketingStrategy",
+      "#DigitalMarketing",
+      "#BusinessGrowth",
+      "#NovaEdge",
+      "#ProfessionalMarketing"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption uses a professional yet engaging tone suitable for a broad audience on Instagram. The hook emphasizes value (innovative insights, real impact) which drives engagement. The carousel format allows for storytelling across three visuals—strategy, execution, results. Hashtags are balanced between brand-specific and discovery-driven. Considered a question-based hook but opted for value proposition for stronger brand positioning.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "<Client Confirmation Preview>\nClient: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)  \n\nArabic Caption:  \nنقدم لكم رؤى تسويقية مبتكرة تُحدث فرقًا حقيقيًا في أداء علامتكم التجارية 🌟 من الاستراتيجيات المدروسة إلى التنفيذ الدقيق، نحن نعمل معكم خطوة بخطوة لتحقيق النجاح المستدام. اكتشفوا كيف يمكن لفريق نوف إيدج أن يُعزز من تواجدكم الرقمي ويدفع بكم إلى الصدارة. 🔍🚀  \n#استراتيجية #تسويق_رقمي #ريادة_أعمال #نوڤ_إيدج #تسويق_محترف\n\nEnglish Caption:  \nDiscover innovative marketing insights that make a real impact on your brand’s performance 🌟 From strategic planning to precise execution, we partner with you every step of the way toward sustainable success. See how NovaEdge can elevate your digital presence and position you at the forefront of your industry. 🔍🚀  \n#MarketingStrategy #DigitalMarketing #BusinessGrowth #NovaEdge #ProfessionalMarketing  \n\nPreview ready. Approved for posting?  \n(yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T00:36:56.214248",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "<Client Confirmation Preview>\nClient: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)  \n\nArabic Caption:  \nنقدم لكم رؤى تسويقية مبتكرة تُحدث فرقًا حقيقيًا في أداء علامتكم التجارية 🌟 من الاستراتيجيات المدروسة إلى التنفيذ الدقيق، نحن نعمل معكم خطوة بخطوة لتحقيق النجاح المستدام. اكتشفوا كيف يمكن لفريق نوف إيدج أن يُعزز من تواجدكم الرقمي ويدفع بكم إلى الصدارة. 🔍🚀  \n#استراتيجية #تسويق_رقمي #ريادة_أعمال #نوڤ_إيدج #تسويق_محترف\n\nEnglish Caption:  \nDiscover innovative marketing insights that make a real impact on your brand’s performance 🌟 From strategic planning to precise execution, we partner with you every step of the way toward sustainable success. See how NovaEdge can elevate your digital presence and position you at the forefront of your industry. 🔍🚀  \n#MarketingStrategy #DigitalMarketing #BusinessGrowth #NovaEdge #ProfessionalMarketing  \n\nPreview ready. Approved for posting?  \n(yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T00:37:39.963386"
+}

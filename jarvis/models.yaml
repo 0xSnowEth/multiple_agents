@@ -1,5 +1,5 @@
 profiles:
   dev:
-    hub:         cerebras/qwen-3-235b-a22b-instruct-2507
-    spoke_smart: cerebras/qwen-3-235b-a22b-instruct-2507
-    spoke_fast:  cerebras/llama3.1-8b
+    hub:         groq/llama-3.3-70b-versatile
+    spoke_smart: groq/llama-3.3-70b-versatile
+    spoke_fast:  groq/llama-3.1-8b-instant

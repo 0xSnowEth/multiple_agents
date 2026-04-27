@@ -1,0 +1,79 @@
+{
+  "session_id": "464abb2e-d84a-48a1-aef1-faf075b574c3",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "نوف إيدج ماركيتينغ تُعيد تعريف حدود التسويق الاحترافي. في عالم يتغير بسرعة، نضع لك حلولًا مبتكرة وموجهة لضمان تفوق علامتك التجارية. اكتشف معنا مستقبل التسويق الرقمي — ذكاء، دقة، ورؤية مستقبلية.\n\n#نوڤ إيدج #تسويق احترافي #حلول رقمية #ريادة الأعمال #كويت\n\nNovaEdge Marketing is redefining the boundaries of professional marketing. In a fast-evolving world, we deliver innovative, tailored solutions to ensure your brand stays ahead. Discover the future of digital marketing with us — smart, precise, and forward-thinking.\n\n#NovaEdge #ProfessionalMarketing #DigitalSolutions #BusinessGrowth #Kuwait\n\n#NovaEdge #ProfessionalMarketing #DigitalSolutions #BusinessGrowth #Kuwait #ModernMarketing #FutureInnovation #نوڤإيدج #تسويق_احترافي #حلول_رقمية #ريادة_الأعمال #كويت #تسويق_حديث #ابتكار_مستقبلي",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": null
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/464abb2e-d84a-48a1-aef1-faf075b574c3/4404567536487339.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/464abb2e-d84a-48a1-aef1-faf075b574c3/3414233335418741.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/464abb2e-d84a-48a1-aef1-faf075b574c3/1342937037676284.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "نوف إيدج ماركيتينغ تُعيد تعريف حدود التسويق الاحترافي. في عالم يتغير بسرعة، نضع لك حلولًا مبتكرة وموجهة لضمان تفوق علامتك التجارية. اكتشف معنا مستقبل التسويق الرقمي — ذكاء، دقة، ورؤية مستقبلية.\n\n#نوڤ إيدج #تسويق احترافي #حلول رقمية #ريادة الأعمال #كويت",
+    "english_caption": "NovaEdge Marketing is redefining the boundaries of professional marketing. In a fast-evolving world, we deliver innovative, tailored solutions to ensure your brand stays ahead. Discover the future of digital marketing with us — smart, precise, and forward-thinking.\n\n#NovaEdge #ProfessionalMarketing #DigitalSolutions #BusinessGrowth #Kuwait",
+    "arabic_hashtags": [
+      "نوڤإيدج",
+      "تسويق_احترافي",
+      "حلول_رقمية",
+      "ريادة_الأعمال",
+      "كويت",
+      "تسويق_حديث",
+      "ابتكار_مستقبلي"
+    ],
+    "english_hashtags": [
+      "NovaEdge",
+      "ProfessionalMarketing",
+      "DigitalSolutions",
+      "BusinessGrowth",
+      "Kuwait",
+      "ModernMarketing",
+      "FutureInnovation"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption combines a professional tone with a strong value proposition, emphasizing innovation and forward-thinking strategy—aligned with the brand's futuristic identity. The dual-language approach ensures broader engagement in the Gulf region while targeting professionals and businesses. Strong hook due to aspirational messaging and clear brand positioning. Considered a more casual version but rejected to maintain brand consistency.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "<Client Preview>\n\n**Client Name:** NovaEdge Marketing  \n**Media Type:** Instagram Carousel  \n\n**Arabic Caption:**  \nنوف إيدج ماركيتينغ تُعيد تعريف حدود التسويق الاحترافي. في عالم يتغير بسرعة، نضع لك حلولًا مبتكرة وموجهة لضمان تفوق علامتك التجارية. اكتشف معنا مستقبل التسويق الرقمي — ذكاء، دقة، ورؤية مستقبلية.\n\n#نوڤإيدج #تسويق_احترافي #حلول_رقمية #ريادة_الأعمال #كويت #ابتكار_مستقبلي\n\n**English Caption:**  \nNovaEdge Marketing is redefining the boundaries of professional marketing. In a fast-evolving world, we deliver innovative, tailored solutions to ensure your brand stays ahead. Discover the future of digital marketing with us — smart, precise, and forward-thinking.\n\n#NovaEdge #ProfessionalMarketing #DigitalSolutions #BusinessGrowth #Kuwait #FutureInnovation\n\nPreview ready. Approve or suggest edits before posting. (approve / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T00:41:38.525617",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Caption generation failed due to a rate limit error. Try again in a moment. (retry / adjust request)"
+    },
+    {
+      "role": "user",
+      "content": "retry"
+    },
+    {
+      "role": "assistant",
+      "content": "<Client Preview>\n\n**Client Name:** NovaEdge Marketing  \n**Media Type:** Instagram Carousel  \n\n**Arabic Caption:**  \nنوف إيدج ماركيتينغ تُعيد تعريف حدود التسويق الاحترافي. في عالم يتغير بسرعة، نضع لك حلولًا مبتكرة وموجهة لضمان تفوق علامتك التجارية. اكتشف معنا مستقبل التسويق الرقمي — ذكاء، دقة، ورؤية مستقبلية.\n\n#نوڤإيدج #تسويق_احترافي #حلول_رقمية #ريادة_الأعمال #كويت #ابتكار_مستقبلي\n\n**English Caption:**  \nNovaEdge Marketing is redefining the boundaries of professional marketing. In a fast-evolving world, we deliver innovative, tailored solutions to ensure your brand stays ahead. Discover the future of digital marketing with us — smart, precise, and forward-thinking.\n\n#NovaEdge #ProfessionalMarketing #DigitalSolutions #BusinessGrowth #Kuwait #FutureInnovation\n\nPreview ready. Approve or suggest edits before posting. (approve / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T00:43:55.299581"
+}

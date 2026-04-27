@@ -1,0 +1,71 @@
+{
+  "session_id": "4b32c113-ea9a-4b5e-8f27-7eda4a40d402",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "تقدم نوڤا إيدج للتسويق حلاً متكاملاً يعزز وجود علامتك التجارية ويوصل رسالتك للجمهور المستهدف بوضوح وفعالية. نحول الأفكار إلى استراتيجيات ناجحة تُحدث فرقاً حقيقياً. هل أنت مستعد للارتقاء بعلامتك التجارية إلى المستوى التالي؟ 💼✨\n\nشاهد المجموعة لتعرف كيف نعمل.\n\nNovaEdge Marketing delivers a comprehensive solution to amplify your brand presence and connect your message with the right audience—clearly, effectively. We turn ideas into winning strategies that drive real results. Ready to elevate your brand?\n\nSwipe through to discover our approach.\n\n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdgeMarketing #DigitalMarketing #Entrepreneurship #MarketingSolutions #تسويق_احترافي #نمو_العلامات_التجارية #استراتيجيات_تسويق #نوڤا_إيدج #تسويق_رقمي #ريادة_أعمال #حلول_تسويقية",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/4b32c113-ea9a-4b5e-8f27-7eda4a40d402/2461034604339640.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/4b32c113-ea9a-4b5e-8f27-7eda4a40d402/2461034604339640.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/4b32c113-ea9a-4b5e-8f27-7eda4a40d402/905783349166270.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/4b32c113-ea9a-4b5e-8f27-7eda4a40d402/3155289414655062.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "تقدم نوڤا إيدج للتسويق حلاً متكاملاً يعزز وجود علامتك التجارية ويوصل رسالتك للجمهور المستهدف بوضوح وفعالية. نحول الأفكار إلى استراتيجيات ناجحة تُحدث فرقاً حقيقياً. هل أنت مستعد للارتقاء بعلامتك التجارية إلى المستوى التالي؟ 💼✨\n\nشاهد المجموعة لتعرف كيف نعمل.",
+    "english_caption": "NovaEdge Marketing delivers a comprehensive solution to amplify your brand presence and connect your message with the right audience—clearly, effectively. We turn ideas into winning strategies that drive real results. Ready to elevate your brand?\n\nSwipe through to discover our approach.",
+    "arabic_hashtags": [
+      "تسويق_احترافي",
+      "نمو_العلامات_التجارية",
+      "استراتيجيات_تسويق",
+      "نوڤا_إيدج",
+      "تسويق_رقمي",
+      "ريادة_أعمال",
+      "حلول_تسويقية"
+    ],
+    "english_hashtags": [
+      "ProfessionalMarketing",
+      "BrandGrowth",
+      "MarketingStrategy",
+      "NovaEdgeMarketing",
+      "DigitalMarketing",
+      "Entrepreneurship",
+      "MarketingSolutions"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption uses a professional yet accessible tone to appeal to a broad business audience. It emphasizes transformation and results—key motivators for engagement. The carousel format is leveraged with a clear CTA (swipe to discover), which increases interaction. The Arabic version maintains formal Gulf Arabic with industry-relevant terms for credibility. Hashtags are balanced between reach and specificity in both languages. Alternative hooks considered were question-based (e.g., 'هل تعاني من ضعف في وصول علامتك التجارية؟') but rejected for being too direct for the professional brand voice.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "**Client Name:** NovaEdge Marketing  \n**Media Type:** Instagram Carousel (3 slides)\n\n**Arabic Caption:**  \nتقدم نوڤا إيدج للتسويق حلاً متكاملاً يعزز وجود علامتك التجارية ويوصل رسالتك للجمهور المستهدف بوضوح وفعالية. نحول الأفكار إلى استراتيجيات ناجحة تُحدث فرقاً حقيقياً. هل أنت مستعد للارتقاء بعلامتك التجارية إلى المستوى التالي؟ 💼✨\n\nشاهد المجموعة لتعرف كيف نعمل.\n\n#تسويق_احترافي #نمو_العلامات_التجارية #استراتيجيات_تسويق #نوڤا_إيدج #تسويق_رقمي #ريادة_أعمال #حلول_تسويقية\n\n**English Caption:**  \nNovaEdge Marketing delivers a comprehensive solution to amplify your brand presence and connect your message with the right audience—clearly, effectively. We turn ideas into winning strategies that drive real results. Ready to elevate your brand?\n\nSwipe through to discover our approach.\n\n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdgeMarketing #DigitalMarketing #Entrepreneurship #MarketingSolutions\n\nApproved for review? (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T01:06:59.487354",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "**Client Name:** NovaEdge Marketing  \n**Media Type:** Instagram Carousel (3 slides)\n\n**Arabic Caption:**  \nتقدم نوڤا إيدج للتسويق حلاً متكاملاً يعزز وجود علامتك التجارية ويوصل رسالتك للجمهور المستهدف بوضوح وفعالية. نحول الأفكار إلى استراتيجيات ناجحة تُحدث فرقاً حقيقياً. هل أنت مستعد للارتقاء بعلامتك التجارية إلى المستوى التالي؟ 💼✨\n\nشاهد المجموعة لتعرف كيف نعمل.\n\n#تسويق_احترافي #نمو_العلامات_التجارية #استراتيجيات_تسويق #نوڤا_إيدج #تسويق_رقمي #ريادة_أعمال #حلول_تسويقية\n\n**English Caption:**  \nNovaEdge Marketing delivers a comprehensive solution to amplify your brand presence and connect your message with the right audience—clearly, effectively. We turn ideas into winning strategies that drive real results. Ready to elevate your brand?\n\nSwipe through to discover our approach.\n\n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdgeMarketing #DigitalMarketing #Entrepreneurship #MarketingSolutions\n\nApproved for review? (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T01:08:29.191441"
+}

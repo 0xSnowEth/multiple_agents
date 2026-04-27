@@ -1,0 +1,67 @@
+{
+  "session_id": "fe642757-aafc-4396-81a8-62e44164d20d",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "ننقل عملك إلى المستوى التالي مع حلول تسويقية ذكية ومبتكرة 🚀 في عصر التكنولوجيا، لا مكان للتجريب — نحن نصنع المستقبل بأيدي خبراء. انضم إلى الرحلة مع نوف إيدج ماركيتينغ. #النجاح_يبدأ_هنا\n\nElevate your business with smart, innovative marketing solutions 🚀 In a tech-driven world, there’s no room for guesswork — we’re building the future with expert precision. Step into the next era with NovaEdge Marketing. #TheFutureIsNow\n\n#SmartMarketing #BusinessGrowth #InnovativeSolutions #NovaEdge #FutureReady #تسويق_ذكي #نمو_الأعمال #حلول_ابتكارية #نوف_إيدج #تسويق_احترافي",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe642757-aafc-4396-81a8-62e44164d20d/1884866152225500.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe642757-aafc-4396-81a8-62e44164d20d/1884866152225500.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe642757-aafc-4396-81a8-62e44164d20d/26306350872394310.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/fe642757-aafc-4396-81a8-62e44164d20d/805507825621384.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "ننقل عملك إلى المستوى التالي مع حلول تسويقية ذكية ومبتكرة 🚀 في عصر التكنولوجيا، لا مكان للتجريب — نحن نصنع المستقبل بأيدي خبراء. انضم إلى الرحلة مع نوف إيدج ماركيتينغ. #النجاح_يبدأ_هنا",
+    "english_caption": "Elevate your business with smart, innovative marketing solutions 🚀 In a tech-driven world, there’s no room for guesswork — we’re building the future with expert precision. Step into the next era with NovaEdge Marketing. #TheFutureIsNow",
+    "arabic_hashtags": [
+      "تسويق_ذكي",
+      "نمو_الأعمال",
+      "حلول_ابتكارية",
+      "نوف_إيدج",
+      "تسويق_احترافي"
+    ],
+    "english_hashtags": [
+      "SmartMarketing",
+      "BusinessGrowth",
+      "InnovativeSolutions",
+      "NovaEdge",
+      "FutureReady"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption combines professionalism with a bold, forward-thinking tone that aligns with the brand’s futuristic and high-energy identity. It emphasizes expertise and innovation, appealing to a general audience looking for reliable, cutting-edge marketing solutions. The call to 'join the journey' creates emotional engagement. Hashtags are strategic, mixing brand-specific and widely searched terms in both languages. Carousel format allows visual storytelling across awareness, solution, and CTA frames. Considered a more casual hook but rejected to maintain brand professionalism.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "Client: NovaEdge Marketing  \nMedia Type: Instagram Carousel\n\nCaption (Arabic):  \nننقل عملك إلى المستوى التالي مع حلول تسويقية ذكية ومبتكرة 🚀 في عصر التكنولوجيا، لا مكان للتجريب — نحن نصنع المستقبل بأيدي خبراء. انضم إلى الرحلة مع نوف إيدج ماركيتينغ. #النجاح_يبدأ_هنا #تسويق_ذكي #نمو_الأعمال #حلول_ابتكارية #نوف_إيدج #تسويق_احترافي\n\nCaption (English):  \nElevate your business with smart, innovative marketing solutions 🚀 In a tech-driven world, there’s no room for guesswork — we’re building the future with expert precision. Step into the next era with NovaEdge Marketing. #TheFutureIsNow #SmartMarketing #BusinessGrowth #InnovativeSolutions #NovaEdge #FutureReady\n\nReady when you are. (approve / edit / hold)",
+  "error_message": null,
+  "created_at": "2026-04-27T00:29:13.647345",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Client: NovaEdge Marketing  \nMedia Type: Instagram Carousel\n\nCaption (Arabic):  \nننقل عملك إلى المستوى التالي مع حلول تسويقية ذكية ومبتكرة 🚀 في عصر التكنولوجيا، لا مكان للتجريب — نحن نصنع المستقبل بأيدي خبراء. انضم إلى الرحلة مع نوف إيدج ماركيتينغ. #النجاح_يبدأ_هنا #تسويق_ذكي #نمو_الأعمال #حلول_ابتكارية #نوف_إيدج #تسويق_احترافي\n\nCaption (English):  \nElevate your business with smart, innovative marketing solutions 🚀 In a tech-driven world, there’s no room for guesswork — we’re building the future with expert precision. Step into the next era with NovaEdge Marketing. #TheFutureIsNow #SmartMarketing #BusinessGrowth #InnovativeSolutions #NovaEdge #FutureReady\n\nReady when you are. (approve / edit / hold)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T00:29:58.495864"
+}

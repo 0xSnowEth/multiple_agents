@@ -1,0 +1,40 @@
+{
+  "session_id": "161d9ac2-9a58-4dfe-9794-ffdc3b050d37",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "is_complete": false,
+    "missing_fields": [],
+    "next_question_for_operator": "Error processing onboarding: 1 validation error for Output\nmissing_fields\n  Field required [type=missing, input_value={'is_complete': True, 'fo...er': '+1 202 555 0147'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.12/v/missing",
+    "formatted_profile": null
+  },
+  "status": "active",
+  "pending_reply": "Yikes — still hitting a wall on NovaEdge Marketing. Try this:\n\nSend the exact JSON payload for onboarding_spoke with `missing_fields` as an empty array and all client facts packed in `known_facts`. But according to system rules, I *can't* generate it myself — Rafi, you’ll need to push it manually or confirm the correct structure. Let me know how you want to move forward.",
+  "error_message": null,
+  "created_at": "2026-04-26T19:11:37.396989",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Client Name: NovaEdge-Marketing\nBrand Voice: Confident, modern, results-driven, slightly edgy\nTarget Audience: Gen Z and young millennials interested in tech, lifestyle, and digital trends\nPlatforms: Instagram, TikTok, X (Twitter), LinkedIn\nLanguage: English\nNumber: +1 202 555 0147"
+    },
+    {
+      "role": "assistant",
+      "content": "NovaEdge-Marketing profile failed validation — missing_fields is required. Send updated onboarding_spoke with missing_fields array (can be empty if none)."
+    },
+    {
+      "role": "user",
+      "content": "Client Name: NovaEdge Marketing\nBrand Voice: Confident, modern, results-driven, slightly edgy\nTarget Audience: Gen Z and young millennials interested in tech, lifestyle, and digital trends\nPlatforms: Instagram, TikTok, X (Twitter), LinkedIn\nLanguage: English\nNumber: +1 202 555 0147"
+    },
+    {
+      "role": "assistant",
+      "content": "Yikes — still hitting a wall on NovaEdge Marketing. Try this:\n\nSend the exact JSON payload for onboarding_spoke with `missing_fields` as an empty array and all client facts packed in `known_facts`. But according to system rules, I *can't* generate it myself — Rafi, you’ll need to push it manually or confirm the correct structure. Let me know how you want to move forward."
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T19:13:01.360368"
+}

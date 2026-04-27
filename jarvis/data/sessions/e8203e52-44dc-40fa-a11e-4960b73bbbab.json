@@ -1,0 +1,27 @@
+{
+  "session_id": "e8203e52-44dc-40fa-a11e-4960b73bbbab",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": null,
+  "status": "active",
+  "pending_reply": "Hey Rafi. What’s next?",
+  "error_message": null,
+  "created_at": "2026-04-26T16:28:37.966103",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey Rafi. What’s next?"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T16:28:40.399025"
+}

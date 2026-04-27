@@ -1,0 +1,63 @@
+{
+  "session_id": "7644e2f2-8812-4953-911a-cc77058a617b",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "Success isn’t accidental — it’s strategic. At NovaEdge Marketing, we combine data, creativity, and precision to elevate brands and drive measurable growth. Swipe to see how we turn vision into impact. 🔍🚀 #NovaEdgeMoments\n\n#MarketingStrategy #BrandGrowth #DigitalMarketing #NovaEdgeMarketing #BusinessSuccess #StrategicMarketing #ContentCarousel",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/7644e2f2-8812-4953-911a-cc77058a617b/1623673772189170.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/7644e2f2-8812-4953-911a-cc77058a617b/1623673772189170.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/7644e2f2-8812-4953-911a-cc77058a617b/1926657914644511.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/7644e2f2-8812-4953-911a-cc77058a617b/1521097102697835.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": null,
+    "english_caption": "Success isn’t accidental — it’s strategic. At NovaEdge Marketing, we combine data, creativity, and precision to elevate brands and drive measurable growth. Swipe to see how we turn vision into impact. 🔍🚀 #NovaEdgeMoments",
+    "arabic_hashtags": null,
+    "english_hashtags": [
+      "MarketingStrategy",
+      "BrandGrowth",
+      "DigitalMarketing",
+      "NovaEdgeMarketing",
+      "BusinessSuccess",
+      "StrategicMarketing",
+      "ContentCarousel"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption opens with a strong, universally resonant statement about success to immediately capture attention. It aligns with NovaEdge’s professional voice by emphasizing strategy, data, and results. The swipe prompt encourages engagement with the carousel format. Hashtags are a mix of brand visibility, industry relevance, and platform behavior. Alternatives considered included client-focused phrasing like 'Our clients win because we plan' but were deemed less inclusive for a general audience.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "Client Name: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)\n\nCaption:  \nSuccess isn’t accidental — it’s strategic. At NovaEdge Marketing, we combine data, creativity, and precision to elevate brands and drive measurable growth. Swipe to see how we turn vision into impact. 🔍🚀\n\n#MarketingStrategy #BrandGrowth #DigitalMarketing #NovaEdgeMarketing #BusinessSuccess #StrategicMarketing #ContentCarousel\n\nReady for approval. (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T19:16:06.999644",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags. STRICTLY respect the client's language preference (English). If they only asked for one language, DO NOT include translations or other languages in your preview. Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Client Name: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)\n\nCaption:  \nSuccess isn’t accidental — it’s strategic. At NovaEdge Marketing, we combine data, creativity, and precision to elevate brands and drive measurable growth. Swipe to see how we turn vision into impact. 🔍🚀\n\n#MarketingStrategy #BrandGrowth #DigitalMarketing #NovaEdgeMarketing #BusinessSuccess #StrategicMarketing #ContentCarousel\n\nReady for approval. (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T19:16:55.059888"
+}

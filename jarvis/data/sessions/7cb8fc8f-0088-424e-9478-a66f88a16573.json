@@ -1,0 +1,56 @@
+{
+  "session_id": "7cb8fc8f-0088-424e-9478-a66f88a16573",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "Server overloaded — try again in 2 mins.",
+    "image_url": "/home/snowaflic/jarvis/jarvis/tools/../data/media/7cb8fc8f-0088-424e-9478-a66f88a16573/1562326208943067.png",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/7cb8fc8f-0088-424e-9478-a66f88a16573/1562326208943067.png"
+    },
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/7cb8fc8f-0088-424e-9478-a66f88a16573/1050892774782555.png"
+    },
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/7cb8fc8f-0088-424e-9478-a66f88a16573/798813913022960.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": null,
+    "english_caption": null,
+    "arabic_hashtags": null,
+    "english_hashtags": null,
+    "hook_strength": null,
+    "notes": null,
+    "error": "litellm.RateLimitError: RateLimitError: CerebrasException - We're experiencing high traffic right now! Please try again soon."
+  },
+  "status": "active",
+  "pending_reply": "Server overloaded — try again in 2 mins.",
+  "error_message": null,
+  "created_at": "2026-04-26T23:45:03.726713",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. Generate the bilingual caption for this post based on their profile. Do not execute it yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Server overloaded — try again in 2 mins."
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T23:46:45.223011"
+}

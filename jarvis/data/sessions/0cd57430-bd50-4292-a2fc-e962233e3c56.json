@@ -1,0 +1,70 @@
+{
+  "session_id": "0cd57430-bd50-4292-a2fc-e962233e3c56",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "Client: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 frames)\n\n.Caption (Arabic)  \nثلاثة خطوات نحو نتائج استثنائية مع نوڤا إيدج ماركيتنج 💡 من التخطيط الذكي إلى التنفيذ المتميز، نُصنع النجاح بثقة وجودة عالية. شاهد كيف يمكننا تحويل رؤيتك إلى واقع ملموس 🚀  \n#تسويق_احترافي #استراتيجية_رقمية #ريادة_أعمال #نوڤا_إيدج #تسويق_ذكي #نتائج_محددة\n\n.Caption (English)  \n3 steps to exceptional results with NovaEdge Marketing 💡 From smart planning to outstanding execution, we deliver success with confidence and precision. See how we turn your vision into reality 🚀  \n#ProfessionalMarketing #DigitalStrategy #BusinessGrowth #NovaEdge #SmartMarketing #ProvenResults\n\nReady for review. (yes / edit / no)",
+    "image_url": "/home/snowaflic/jarvis/jarvis/tools/../data/media/0cd57430-bd50-4292-a2fc-e962233e3c56/1484726480011403.png",
+    "platforms": [
+      "facebook",
+      "instagram"
+    ]
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/0cd57430-bd50-4292-a2fc-e962233e3c56/1484726480011403.png"
+    },
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/0cd57430-bd50-4292-a2fc-e962233e3c56/1515561313505457.png"
+    },
+    {
+      "type": "image",
+      "path": "/home/snowaflic/jarvis/jarvis/tools/../data/media/0cd57430-bd50-4292-a2fc-e962233e3c56/1687335579251503.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "ثلاثة خطوات نحو نتائج استثنائية مع نوڤا إيدج ماركيتنج 💡 من التخطيط الذكي إلى التنفيذ المتميز، نُصنع النجاح بثقة وجودة عالية. شاهد كيف يمكننا تحويل رؤيتك إلى واقع ملموس 🚀 #تسويق_احترافي #استراتيجية_رقمية #ريادة_أعمال",
+    "english_caption": "3 steps to exceptional results with NovaEdge Marketing 💡 From smart planning to outstanding execution, we deliver success with confidence and precision. See how we turn your vision into reality 🚀 #ProfessionalMarketing #DigitalStrategy #BusinessGrowth",
+    "arabic_hashtags": [
+      "تسويق_احترافي",
+      "استراتيجية_رقمية",
+      "ريادة_أعمال",
+      "نوڤا_إيدج",
+      "تسويق_ذكي",
+      "نتائج_محددة"
+    ],
+    "english_hashtags": [
+      "ProfessionalMarketing",
+      "DigitalStrategy",
+      "BusinessGrowth",
+      "NovaEdge",
+      "SmartMarketing",
+      "ProvenResults"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption uses a numbered hook (3 steps) which performs well on Instagram carousels, especially with a professional audience. It emphasizes process, credibility, and transformation—key drivers for B2B engagement. The bilingual approach ensures broader reach in the Gulf region while maintaining brand professionalism. Hashtags are balanced between visibility and relevance. Alternative intros like 'لماذا تنجح العلامات مع نوڤا إيدج؟' were considered but found less actionable.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "Client: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 frames)\n\n.Caption (Arabic)  \nثلاثة خطوات نحو نتائج استثنائية مع نوڤا إيدج ماركيتنج 💡 من التخطيط الذكي إلى التنفيذ المتميز، نُصنع النجاح بثقة وجودة عالية. شاهد كيف يمكننا تحويل رؤيتك إلى واقع ملموس 🚀  \n#تسويق_احترافي #استراتيجية_رقمية #ريادة_أعمال #نوڤا_إيدج #تسويق_ذكي #نتائج_محددة\n\n.Caption (English)  \n3 steps to exceptional results with NovaEdge Marketing 💡 From smart planning to outstanding execution, we deliver success with confidence and precision. See how we turn your vision into reality 🚀  \n#ProfessionalMarketing #DigitalStrategy #BusinessGrowth #NovaEdge #SmartMarketing #ProvenResults\n\nReady for review. (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T00:03:11.380747",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Client: NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 frames)\n\n.Caption (Arabic)  \nثلاثة خطوات نحو نتائج استثنائية مع نوڤا إيدج ماركيتنج 💡 من التخطيط الذكي إلى التنفيذ المتميز، نُصنع النجاح بثقة وجودة عالية. شاهد كيف يمكننا تحويل رؤيتك إلى واقع ملموس 🚀  \n#تسويق_احترافي #استراتيجية_رقمية #ريادة_أعمال #نوڤا_إيدج #تسويق_ذكي #نتائج_محددة\n\n.Caption (English)  \n3 steps to exceptional results with NovaEdge Marketing 💡 From smart planning to outstanding execution, we deliver success with confidence and precision. See how we turn your vision into reality 🚀  \n#ProfessionalMarketing #DigitalStrategy #BusinessGrowth #NovaEdge #SmartMarketing #ProvenResults\n\nReady for review. (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T00:03:53.608073"
+}

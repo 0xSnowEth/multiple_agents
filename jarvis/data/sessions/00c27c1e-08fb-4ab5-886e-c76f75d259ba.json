@@ -1,0 +1,35 @@
+{
+  "session_id": "00c27c1e-08fb-4ab5-886e-c76f75d259ba",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": null,
+  "status": "active",
+  "pending_reply": "What's goodd Jarvis is up and running baby, tell me what i can do for you  \n\nOptions:  \n- Generate captions  \n- Run a campaign plan  \n- Qualify a lead  \n- Approve content  \n- Payment reminder  \n- Onboard a new client",
+  "error_message": null,
+  "created_at": "2026-04-26T17:33:12.250645",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "user",
+      "content": "hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "What's goodd Jarvis is up and running baby, tell me what i can do for you  \n\nOptions:  \n- Generate captions  \n- Run a campaign plan  \n- Qualify a lead  \n- Approve content  \n- Payment reminder  \n- Onboard a new client"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T17:33:41.896653"
+}

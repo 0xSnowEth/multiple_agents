@@ -946,6 +946,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "fastapi" },
+    { name = "groq" },
     { name = "httpx" },
     { name = "langfuse" },
     { name = "litellm" },
@@ -960,6 +961,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "fastapi", specifier = ">=0.136.1" },
+    { name = "groq", specifier = ">=1.2.0" },
     { name = "httpx", specifier = ">=0.28.1" },
     { name = "langfuse", specifier = ">=2.0.0,<3.0.0" },
     { name = "litellm", specifier = ">=1.83.13" },

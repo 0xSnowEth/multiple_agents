@@ -1,0 +1,67 @@
+{
+  "session_id": "2be9c815-837f-41b6-8d20-f1fd608eb32d",
+  "operator_number": "96560396543",
+  "workflow": "posting",
+  "client_id": "novaedge-marketing",
+  "client_profile": null,
+  "pending_caption": {
+    "caption": "تقدم نواهيدج للتسويق حلاً متكاملاً لنمو علامتك التجارية في السوق التنافسي اليوم. من الاستراتيجية إلى التنفيذ، نحن نضمن ظهورك بقوة حيث يهم أكثر. تحقق من الشرائح الثلاث لتعرف كيف يمكننا دعم رحلتك بفعالية. 💼📈 #تسويق_احترافي #نمو_العلامة\n\nAt NovaEdge Marketing, we deliver a complete solution for growing your brand in today’s competitive market. From strategy to execution, we ensure you stand out where it matters most. Swipe through the three slides to discover how we can effectively support your journey. 💼📈 #ProfessionalMarketing #BrandGrowth\n\n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdge #GlobalMarketing #تسويق_احترافي #نمو_العلامة #استراتيجية_تسويق #نوواهيدج #تسويق_جلوبال",
+    "platforms": [
+      "instagram"
+    ],
+    "image_url": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/2be9c815-837f-41b6-8d20-f1fd608eb32d/3353648031468357.png"
+  },
+  "media_batch": [
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/2be9c815-837f-41b6-8d20-f1fd608eb32d/3353648031468357.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/2be9c815-837f-41b6-8d20-f1fd608eb32d/1402636894955715.png"
+    },
+    {
+      "type": "image",
+      "path": "https://sthenic-unadoringly-lilia.ngrok-free.dev/media/2be9c815-837f-41b6-8d20-f1fd608eb32d/35122929597354915.png"
+    }
+  ],
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "تقدم نواهيدج للتسويق حلاً متكاملاً لنمو علامتك التجارية في السوق التنافسي اليوم. من الاستراتيجية إلى التنفيذ، نحن نضمن ظهورك بقوة حيث يهم أكثر. تحقق من الشرائح الثلاث لتعرف كيف يمكننا دعم رحلتك بفعالية. 💼📈 #تسويق_احترافي #نمو_العلامة",
+    "english_caption": "At NovaEdge Marketing, we deliver a complete solution for growing your brand in today’s competitive market. From strategy to execution, we ensure you stand out where it matters most. Swipe through the three slides to discover how we can effectively support your journey. 💼📈 #ProfessionalMarketing #BrandGrowth",
+    "arabic_hashtags": [
+      "تسويق_احترافي",
+      "نمو_العلامة",
+      "استراتيجية_تسويق",
+      "نوواهيدج",
+      "تسويق_جلوبال"
+    ],
+    "english_hashtags": [
+      "ProfessionalMarketing",
+      "BrandGrowth",
+      "MarketingStrategy",
+      "NovaEdge",
+      "GlobalMarketing"
+    ],
+    "hook_strength": "strong",
+    "notes": "The caption uses a professional tone while remaining accessible to a general audience. It encourages engagement through the carousel format with a clear call to action (swipe through). Dual-language hashtags increase regional and global discoverability. The hook is strengthened by emphasizing value (complete solution, growth, visibility) and guiding the user through the content logically. Alternatives considered included more technical language, but were rejected to maintain broad appeal.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)\n\n**Arabic Caption**  \nتقدم نواهيدج للتسويق حلاً متكاملاً لنمو علامتك التجارية في السوق التنافسي اليوم. من الاستراتيجية إلى التنفيذ، نحن نضمن ظهورك بقوة حيث يهم أكثر. تحقق من الشرائح الثلاث لتعرف كيف يمكننا دعم رحلتك بفعالية. 💼📈  \n#تسويق_احترافي #نمو_العلامة #استراتيجية_تسويق #نوواهيدج #تسويق_جلوبال\n\n**English Caption**  \nAt NovaEdge Marketing, we deliver a complete solution for growing your brand in today’s competitive market. From strategy to execution, we ensure you stand out where it matters most. Swipe through the three slides to discover how we can effectively support your journey. 💼📈  \n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdge #GlobalMarketing\n\nReady for approval or edits? (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-27T00:51:06.330085",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "I have uploaded 3 media files for my client 'novaedge-marketing'. This is a Carousel. First, strictly use the caption_spoke to generate the caption based on their profile. Then, reply to me with a beautiful, professional preview. Include the Client Name, the Media Type, and cleanly present the generated caption with hashtags (respecting the client's language preference). Do not execute the post yet."
+    },
+    {
+      "role": "assistant",
+      "content": "NovaEdge Marketing  \nMedia Type: Instagram Carousel (3 slides)\n\n**Arabic Caption**  \nتقدم نواهيدج للتسويق حلاً متكاملاً لنمو علامتك التجارية في السوق التنافسي اليوم. من الاستراتيجية إلى التنفيذ، نحن نضمن ظهورك بقوة حيث يهم أكثر. تحقق من الشرائح الثلاث لتعرف كيف يمكننا دعم رحلتك بفعالية. 💼📈  \n#تسويق_احترافي #نمو_العلامة #استراتيجية_تسويق #نوواهيدج #تسويق_جلوبال\n\n**English Caption**  \nAt NovaEdge Marketing, we deliver a complete solution for growing your brand in today’s competitive market. From strategy to execution, we ensure you stand out where it matters most. Swipe through the three slides to discover how we can effectively support your journey. 💼📈  \n#ProfessionalMarketing #BrandGrowth #MarketingStrategy #NovaEdge #GlobalMarketing\n\nReady for approval or edits? (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-27T00:52:42.002392"
+}

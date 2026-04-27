@@ -1,0 +1,55 @@
+{
+  "session_id": "8b63195e-98bb-4098-baca-9eacdcfb1436",
+  "operator_number": "96560396543",
+  "workflow": null,
+  "client_id": null,
+  "client_profile": null,
+  "pending_caption": null,
+  "pending_action": null,
+  "lead_phone": null,
+  "spoke_result": {
+    "arabic_caption": "انعاشة تصدم مع لاتيه الماتشا المثلج الجديد من ستاربكس! 🍵✨ حلاوته حقيقة، وطعمه ما يوصف... جربه اليوم وخلّي يومك يبرق ☀️💚",
+    "english_caption": "Sweet, creamy & undeniably refreshing — the new Iced Matcha Latte is here to make your day brighter! ☀️🥤 One sip and you’re hooked. Come cool down the vibe at Starbucks!",
+    "arabic_hashtags": [
+      "#ستاربكس_الكويت",
+      "#لاتيه_الماتشا",
+      "#صيف_كويتي",
+      "#اناشة_تصدم",
+      "#스타벅스_الكويت"
+    ],
+    "english_hashtags": [
+      "#StarbucksKuwait",
+      "#IcedMatchaLatte",
+      "#CoolYourDay",
+      "#MatchaMagic",
+      "#KuwaitSummer"
+    ],
+    "hook_strength": "strong",
+    "notes": "Used vibrant, youth-centric phrases like 'اناشة تصدم' and 'make your day brighter' to match the brand's energetic tone. Emojis enhance visual appeal and platform fit for Instagram. Hashtags blend local relevance and global trends. Strong sensory language ('حلاوته حقيقة', 'creamy & refreshing') boosts relatability and desire to try. Considered '清凉感' angle but prioritized emotional excitement over literal translation.",
+    "error": null
+  },
+  "status": "active",
+  "pending_reply": "**Captions for Starbucks Kuwait - Iced Matcha Latte**\n\n🎉 Arabic  \nانعاشة تصدم مع لاتيه الماتشا المثلج الجديد من ستاربكس! 🍵✨ حلاوته حقيقة، وطعمه ما يوصف... جربه اليوم وخلّي يومك يبرق ☀️💚  \n#ستاربكس_الكويت #لاتيه_الماتشا #صيف_كويتي #اناشة_تصدم #스타벅스_الكويت\n\n🎉 English  \nSweet, creamy & undeniably refreshing — the new Iced Matcha Latte is here to make your day brighter! ☀️🥤 One sip and you’re hooked. Come cool down the vibe at Starbucks!  \n#StarbucksKuwait #IcedMatchaLatte #CoolYourDay #MatchaMagic #KuwaitSummer\n\nReady to post? (yes / edit / no)",
+  "error_message": null,
+  "created_at": "2026-04-26T16:47:04.817720",
+  "conversation_history": [
+    {
+      "role": "user",
+      "content": "Hey jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "What's goodd! Jarvis is up and running baby, tell me what I can do for you  \n\nNeed captions? Approvals? Campaign ideas? Payment nudges? Let’s go."
+    },
+    {
+      "role": "user",
+      "content": "Write a caption for Starbucks Kuwait about their new iced matcha latte"
+    },
+    {
+      "role": "assistant",
+      "content": "**Captions for Starbucks Kuwait - Iced Matcha Latte**\n\n🎉 Arabic  \nانعاشة تصدم مع لاتيه الماتشا المثلج الجديد من ستاربكس! 🍵✨ حلاوته حقيقة، وطعمه ما يوصف... جربه اليوم وخلّي يومك يبرق ☀️💚  \n#ستاربكس_الكويت #لاتيه_الماتشا #صيف_كويتي #اناشة_تصدم #스타벅스_الكويت\n\n🎉 English  \nSweet, creamy & undeniably refreshing — the new Iced Matcha Latte is here to make your day brighter! ☀️🥤 One sip and you’re hooked. Come cool down the vibe at Starbucks!  \n#StarbucksKuwait #IcedMatchaLatte #CoolYourDay #MatchaMagic #KuwaitSummer\n\nReady to post? (yes / edit / no)"
+    }
+  ],
+  "known_clients": [],
+  "logged_at": "2026-04-26T16:50:17.595603"
+}
